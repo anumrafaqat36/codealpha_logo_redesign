@@ -1,5 +1,9 @@
 # CodeAlpha Logo Redesign
+## Preview
 
+![Adventure Logo](Adventure.png)
+
+---
 ## Overview
 
 This project was created as part of the **CodeAlpha Graphic Designing Internship**.
@@ -35,10 +39,6 @@ The objective was to redesign a logo with a clean, modern, and memorable visual 
 
 ---
 
-## Preview
 
-![Adventure Logo](Adventure.png)
-
----
 
 **Designed by Anum Rafaqat**
